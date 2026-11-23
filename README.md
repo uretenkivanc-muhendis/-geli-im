@@ -1,0 +1,2 @@
+# -geli-im
+Kariyer yolculuğu
