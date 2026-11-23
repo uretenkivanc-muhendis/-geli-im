@@ -27,6 +27,13 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "485451958784497cd4c4dbea13cb5bbb579da58fac0d0e45f3bcb310fab68ac7"
+    },
+    "video-lens": {
+      "source": "kar2phi/video-lens",
+      "commit": "fa14db0e80b83be1214bfa16e117cac9701785e8",
+      "sourceType": "github",
+      "skillPath": "skills/video-lens/SKILL.md",
+      "computedHash": "cde0f308c063b1b9396ad5d5e812aac6b656f05b808087eba1b512b6f5564bc3"
     }
   }
 }
